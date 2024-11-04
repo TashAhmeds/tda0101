@@ -3,4 +3,4 @@ Assignment repository for UNT CSCE1015
 ## EUID
 tda0101
 ## Favorite Professor
-My GOAT Proffessor Hochstetler
+My GOAT Professor Hochstetler
